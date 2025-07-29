@@ -1,10 +1,10 @@
-# 🛒 SuperMart Management System (C++)
+#  SuperMart Management System (C++)
 
 A console-based C++ application simulating a retail store system with product, customer, and cart management. Implements OOP concepts like inheritance, polymorphism, and file handling using classes such as `products`, `productsOnSale`, `Customer`, and `OrderManagement`.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Product Management**  
   Add, edit, delete, and search for products. Includes discount management via the `productsOnSale` subclass.
@@ -20,7 +20,7 @@ A console-based C++ application simulating a retail store system with product, c
 
 ---
 
-## 🔧 OOP Concepts Applied
+##  OOP Concepts Applied
 
 - Inheritance  
 - Polymorphism  
@@ -30,7 +30,7 @@ A console-based C++ application simulating a retail store system with product, c
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - C++  
 - OOP Principles  
@@ -38,7 +38,7 @@ A console-based C++ application simulating a retail store system with product, c
 
 ---
 
-## 🖥️ How to Run
+##  How to Run
 
 1. Clone the repository  
 2. Compile using any C++ compiler (e.g., `g++ main.cpp -o SuperMart`)  
