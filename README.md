@@ -1,45 +1,49 @@
-SuperMart Management System (C++)
- Features
-- Product Management
-Add, edit, delete, and search for products. Also includes discount management via the productsOnSale subclass.
+# 🛒 SuperMart Management System (C++)
 
-- Customer Management
-Create, edit, search, delete, and view customers. Uses file handling for persistence and dynamic memory for runtime flexibility.
+A console-based C++ application simulating a retail store system with product, customer, and cart management. Implements OOP concepts like inheritance, polymorphism, and file handling using classes such as `products`, `productsOnSale`, `Customer`, and `OrderManagement`.
 
-- Cart Management
-Manage customer carts: add/remove items, view contents, apply discounts, clear cart, and calculate total bill.
+---
 
-- File Handling
-All data is saved to and read from files, allowing the system to persist product and customer information across sessions.
+## 🚀 Features
 
- OOP Concepts Applied
+- **Product Management**  
+  Add, edit, delete, and search for products. Includes discount management via the `productsOnSale` subclass.
 
--Inheritance
+- **Customer Management**  
+  Create, edit, search, delete, and view customers. Uses file handling for persistence and dynamic memory for runtime flexibility.
 
--Polymorphism
+- **Cart Management**  
+  Manage customer carts: add/remove items, view contents, apply discounts, clear cart, and calculate total bill.
 
--Encapsulation
+- **File Handling**  
+  All data is saved to and read from files, allowing the system to persist product and customer information across sessions.
 
--Composition
+---
 
--Static and dynamic memory handling
+## 🔧 OOP Concepts Applied
 
- Technologies Used
--C++
+- Inheritance  
+- Polymorphism  
+- Encapsulation  
+- Composition  
+- Static and dynamic memory handling
 
--OOP Principles
+---
 
--File I/O Streams
+## 🛠 Technologies Used
 
- How to Run
--Clone the repository
+- C++  
+- OOP Principles  
+- File I/O Streams
 
--Compile using any C++ compiler (e.g., g++ main.cpp -o SuperMart)
+---
 
--Run the executable
+## 🖥️ How to Run
 
-Login credentials:
+1. Clone the repository  
+2. Compile using any C++ compiler (e.g., `g++ main.cpp -o SuperMart`)  
+3. Run the executable  
 
--Username: mart
-
--Password: 1234
+**Login credentials:**  
+- Username: `mart`  
+- Password: `1234`
